@@ -14,6 +14,7 @@
 		40B1E95C2AA7D1B3006B72D6 /* Focus_State_Login_FormTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B1E95B2AA7D1B3006B72D6 /* Focus_State_Login_FormTests.swift */; };
 		40B1E9662AA7D1B3006B72D6 /* Focus_State_Login_FormUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B1E9652AA7D1B3006B72D6 /* Focus_State_Login_FormUITests.swift */; };
 		40B1E9682AA7D1B3006B72D6 /* Focus_State_Login_FormUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B1E9672AA7D1B3006B72D6 /* Focus_State_Login_FormUITestsLaunchTests.swift */; };
+		40B1E9752AA7D40F006B72D6 /* LoginForm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B1E9742AA7D40F006B72D6 /* LoginForm.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		40B1E9612AA7D1B3006B72D6 /* Focus State Login FormUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Focus State Login FormUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		40B1E9652AA7D1B3006B72D6 /* Focus_State_Login_FormUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Focus_State_Login_FormUITests.swift; sourceTree = "<group>"; };
 		40B1E9672AA7D1B3006B72D6 /* Focus_State_Login_FormUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Focus_State_Login_FormUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		40B1E9742AA7D40F006B72D6 /* LoginForm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginForm.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				40B1E94A2AA7D1AE006B72D6 /* Focus_State_Login_FormApp.swift */,
 				40B1E94C2AA7D1AE006B72D6 /* ContentView.swift */,
+				40B1E9742AA7D40F006B72D6 /* LoginForm.swift */,
 				40B1E94E2AA7D1B3006B72D6 /* Assets.xcassets */,
 				40B1E9502AA7D1B3006B72D6 /* Preview Content */,
 			);
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				40B1E94D2AA7D1AE006B72D6 /* ContentView.swift in Sources */,
+				40B1E9752AA7D40F006B72D6 /* LoginForm.swift in Sources */,
 				40B1E94B2AA7D1AE006B72D6 /* Focus_State_Login_FormApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
