@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct LoginForm: View {
-    enum Field: Hashable {
+    enum Field: Identifiable {
         case username
         case password
     }
