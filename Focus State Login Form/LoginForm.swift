@@ -9,8 +9,7 @@ import SwiftUI
 
 struct LoginForm: View {
     enum Field: Hashable {
-        case username
-        case password
+        case username, password
     }
     
     @State private var username = ""
